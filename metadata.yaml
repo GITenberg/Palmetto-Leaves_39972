@@ -17,6 +17,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Harriet_Beecher_Stowe
 description: Descriptions of the author's life in the St. Johns River region of Florida
   and the community of Mandarin, near Jacksonville.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39972#Palmetto-Leaves
 gutenberg_issued: '2012-06-11'
 gutenberg_type: Text
 identifiers:
